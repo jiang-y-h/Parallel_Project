@@ -1,0 +1,3 @@
+﻿  SIMD.cpp
+E:\并行\期末报告\GuassJordan\SIMD\SIMD.cpp(219,30): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+  SIMD.vcxproj -> E:\并行\期末报告\GuassJordan\SIMD\Debug\SIMD.exe

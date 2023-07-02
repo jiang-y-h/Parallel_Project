@@ -1,0 +1,3 @@
+﻿  Pthread.cpp
+E:\并行\期末报告\GuassJordan\Pthread\Pthread.cpp(1077,30): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+  Pthread.vcxproj -> E:\并行\期末报告\GuassJordan\Pthread\Debug\Pthread.exe
